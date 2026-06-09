@@ -25,7 +25,7 @@ By simulating and connecting IoT devices (ESP32), ORBIT cuts operational costs, 
 | Backend API | Django (Python) |
 | Web Frontend | React + Vite (TypeScript) |
 | Mobile App | Flutter (Dart) |
-| AI / LLM | Flask + Ollama (`incept5/llama3.1-claude`) |
+| AI / LLM | Flask + Ollama (`qwen2.5:4b`) |
 | IoT Hardware | ESP32 + Arduino IDE |
 | Database | PostgreSQL 17 |
 
